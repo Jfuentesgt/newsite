@@ -87,10 +87,20 @@ body{
     position: relative;
     top: -127px;
 }
+.rightvfp{
+    float: right;
+    position: relative;
+    top: 10px;
+}
 .left{
     float: left;
     position: relative;
     top: 80px;
+}
+.leftcs{
+    float: left;
+    position: relative;
+    top: 10px;
 }
 .contenedor-skill-a{
     margin-left: 20px;
